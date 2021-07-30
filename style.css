@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-size: 100px;
+}
+img:hover {
+  width: 200px;
+  background-color: gold;
+}
+.chocolate {
+  width: 200px;
+  background-color: green;
+}
+.broccoli {
+  width: 200px;
+  background-color: yellow;
+}
+.circular {
+  border-radius: 100%;
+}
+
+#heading {
+  color: green;
+}
+#big {
+  font-size: 1000px;
+}
